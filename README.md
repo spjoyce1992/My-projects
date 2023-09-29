@@ -19,7 +19,9 @@ The insights generated from this analysis have played a pivotal role in guiding 
 Some of the Questions that this dashboard can answer:
 
 1-Find the % share of Computers (category) compared to everything sold under Technology (Department) for the Pacific Asia Market?
+
 2-what was the USCA % share in Quarter 3 2016 for the Footwear Department?
+
 3-Filter all the products sold under Loss with Maximum discount and find the “Total Profit Ratio” of it?
 
 
