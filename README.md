@@ -9,12 +9,12 @@ Approach and Methodology:
 Data Collection: Data was in the form of a CSV file.
 Data Cleaning: Performed data cleaning and preprocessing to ensure data accuracy and consistency.I have removed all the unwanted rows and i have also rearranged the columns and did data modelling to establish relationship between the newly created tables.
 Data Visualization: Created interactive visualizations and dashboards using PowerBI to facilitate data-driven decision-making.
-Key Findings:
+
 
 
 Impact:
 
-The insights generated from this analysis have played a pivotal role in guiding our company's strategic decisions regarding market expansion. With the identified growth opportunities and informed strategies, we are confident in our ability to enter new markets successfully and achieve our business objectives.
+The insights generated from this analysis have played a pivotal role in guiding our company's strategic decisions regarding market expansion. With the identified growth opportunities and informed strategies,company is  confident in its ability to enter new markets successfully and achieve their business objectives.
 
 Some of the Questions that this dashboard can answer:
 
