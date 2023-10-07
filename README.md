@@ -7,8 +7,11 @@ In this project,I have analyzed and found the regions and product categories for
 Approach and Methodology:
 
 Data Collection: Data was in the form of a CSV file.
+
 Data Cleaning: Performed data cleaning and preprocessing to ensure data accuracy and consistency.I have removed all the unwanted rows and i have also rearranged the columns and did data modelling to establish relationship between the newly created tables.
+
 Data Visualization: Created interactive visualizations and dashboards using PowerBI to facilitate data-driven decision-making.
+
 Created Measures: Created Measures such as Total profit, Total Profit Ratio,Total Revenue.
 
 
